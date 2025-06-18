@@ -1,7 +1,7 @@
 # ⚡ Hugo Demo (SK / EN)
 
 Tento repozitár ukazuje ako vytvoriť rýchly, elegantný viacjazyčný web pomocou **Hugo**.
-
+# TODO - popisat pracu s make
 ---
 
 ## 📘 Obsah
