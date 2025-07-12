@@ -36,5 +36,7 @@ hugo
 4. Výstup v `public/`, pripravený na Pages
 [https://gitdocs-lab.github.io/docs-hugo-demo/](https://gitdocs-lab.github.io/docs-hugo-demo/)
 ---
+[Ukážkový príklad pre šablónu DOCSY](https://github.com/google/docsy-example)
+
 
 🔗 Späť na [docs-overview](https://github.com/GitDocs-Lab/docs-overview)
